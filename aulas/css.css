@@ -1,0 +1,49 @@
+/* Comentário: Usamos CSS externo para manter o código organizado e reutilizável. */
+
+body {
+    background-color: black;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: palevioletred;
+    text-align: center;
+}
+
+h3 {
+    color: pink;
+    font-size: 22px;
+}
+
+ol {
+    color: wheat;
+}
+
+li {
+    color: white;
+}
+
+a {
+    color: rgb(226, 43, 150);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: palevioletred;
+    font-size: 18px;
+}
+
+div {
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    background-color: #333333;
+}
